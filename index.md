@@ -5,7 +5,7 @@ title: Home
 # Appian SAIL Accessibility Checklist and Examples
 
 How to use this reference:
-* Review the checklist when creating SAIL interfaces.
+* Review the checklist when creating [SAIL](https://docs.appian.com/suite/help/24.1/sail/home.html) interfaces.
 * Use examples as starting points for incorporating best practices.
 * Ask questions if you come across something you’re not sure about.
 
