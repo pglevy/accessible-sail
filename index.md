@@ -9,6 +9,12 @@ How to use this reference:
 * Use examples as starting points for incorporating best practices.
 * Ask questions if you come across something you’re not sure about.
 
+On this page:
+* [Inputs and Controls](#inputs-and-controls)
+* [Content](#content)
+* [Tips](#tips)
+* [Examples](#examples)
+
 ## Inputs and Controls
 
 * All form inputs and controls have labels (even if hidden)
@@ -509,3 +515,7 @@ a!localVariables(
   }
 )
 ```
+
+[Return to top](#appian-sail-accessibility-checklist-and-examples)
+
+[View on GitHub](https://github.com/pglevy/accessible-sail)
